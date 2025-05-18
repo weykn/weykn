@@ -2,10 +2,10 @@
 
 * 💻 C# & NASM
 * 🐧 Daily driver: Arch Linux + i3
-* 🎓 Training to become an IT specialist
-* ✍️ Neovim • VSCode • Visual Studio
+* 🎓 Training as IT specialist
+* ✍️ Vim • VSCode • Visual Studio
 * 🪟 Dual boot with Windows (Fortnite)
-* ⌨️ Custom keyboards enthusiast
+* ⌨️ Custom keyboards
 
 ---
 
