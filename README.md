@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sami
 
-* 💻 Languages: **C#**, **NASM**, *C/C++*
+* 💻 Languages: **C#**, **NASM**, **C/C++**
 * 🐧 Daily driver: **Arch Linux** with **i3**
 * ✍️ Editors: **Vim**, **VSCode**, **Visual Studio**
 * 🎮 Dual-boot with **Windows** (**Fortnite**)
