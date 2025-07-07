@@ -1,11 +1,12 @@
+
+
 # 👋 Hey, I'm Sami
 
-* 💻 C# & NASM
-* 🐧 Daily driver: Arch Linux + i3
-* 🎓 Training as IT specialist
-* ✍️ Vim • VSCode • Visual Studio
-* 🪟 Dual boot with Windows (Fortnite)
-* ⌨️ Custom keyboards
+* 💻 Languages: **C#**, **NASM**, *C/C++*
+* 🐧 Daily driver: **Arch Linux** with **i3**
+* ✍️ Editors: **Vim**, **VSCode**, **Visual Studio**
+* 🎮 Dual-boot with **Windows** (**Fortnite**)
+* ⌨️ Custom mechanical keyboard enthusiast
 
 ---
 
@@ -13,17 +14,25 @@
 
 ### 🖥️ **Main PC**
 
-* 🧠 AMD Ryzen 5 7600X
-* 🧮 32 GB DDR5
-* 🎮 AMD Radeon RX 6700 XT
+* **CPU:** AMD Ryzen 5 7600X (6C / 12T)
+* **RAM:** 32 GB DDR5
+* **GPU:** AMD Radeon RX 6700 XT (12 GB)
+* **Storage:** 2 TB Disk
 
-### 💼 **School Laptop**
-
-* 🔋 Intel Core i5-13500H
-* 🧠 16 GB DDR4
+---
 
 ### 🧊 **Second PC**
 
-* 🧠 2× Intel Xeon E5-2666 v3
-* 🧮 32 GB DDR4
-* 🎮 NVIDIA GTX 1660 SUPER
+* **CPU:** 2× Intel Xeon E5-2697 v4 (36C / 72T)
+* **RAM:** 196 GB DDR4 ECC Registered
+* **GPU:** NVIDIA GTX 1660 Super
+* **Storage:** 16 TB Disk
+
+---
+
+### 💼 **School Laptop**
+
+* **CPU:** Intel Core i5-13500H
+* **RAM:** 16 GB DDR4
+* **GPU:** Integrated Iris Xe
+* **Storage:** 512 GB Disk
