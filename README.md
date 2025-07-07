@@ -24,7 +24,7 @@
 ### 🧊 **Second PC**
 
 * **CPU:** 2× Intel Xeon E5-2697 v4 (36C / 72T)
-* **RAM:** 196 GB DDR4 ECC Registered
+* **RAM:** 256 GB DDR4 ECC Registered
 * **GPU:** NVIDIA GTX 1660 Super
 * **Storage:** 16 TB Disk
 
