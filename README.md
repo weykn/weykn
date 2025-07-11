@@ -1,5 +1,3 @@
-
-
 # 👋 Hey, I'm Sami
 
 * 💻 Languages: **C#**, **NASM**, **C/C++**
@@ -17,7 +15,7 @@
 * **CPU:** AMD Ryzen 5 7600X (6C / 12T)
 * **RAM:** 32 GB DDR5
 * **GPU:** AMD Radeon RX 6700 XT (12 GB)
-* **Storage:** 2 TB Disk
+* **Storage:** 2 TB
 
 ---
 
@@ -26,7 +24,7 @@
 * **CPU:** 2× Intel Xeon E5-2697 v4 (36C / 72T)
 * **RAM:** 256 GB DDR4 ECC Registered
 * **GPU:** NVIDIA GTX 1660 Super
-* **Storage:** 16 TB Disk
+* **Storage:** 16 TB
 
 ---
 
@@ -34,5 +32,12 @@
 
 * **CPU:** Intel Core i5-13500H
 * **RAM:** 16 GB DDR4
-* **GPU:** Integrated Iris Xe
-* **Storage:** 512 GB Disk
+* **Storage:** 512 GB
+
+---
+
+### 🧰 **Third PC**
+
+* **CPU:** Intel Core i7-10700
+* **RAM:** 16 GB DDR4
+* **Storage:** 256 GB
